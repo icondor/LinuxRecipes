@@ -11,7 +11,7 @@ while :
    exit
   else
    echo "ACCESS DENIED!"
-   echo "$counter tentatives"
+   #echo "$counter tentatives"
   fi
 done
  
